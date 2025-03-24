@@ -1,0 +1,38 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: sans-serif;
+    
+}
+
+section {   
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    
+}
+
+input {
+    margin-bottom: 15px;
+    
+}
+
+#todo {
+    
+    text-align: center;
+    background-color: #759A65;
+    color: #9A6575;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 2rem;
+}
+
+input {
+    background-color: #65759A;
+}
